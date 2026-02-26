@@ -49,5 +49,14 @@
         "duration_seconds": 2592000,
         "created_at": 1772147144,
         "used": false
+    },
+    "C2GSP2C095XPGE39": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "30day",
+        "duration_seconds": 2592000,
+        "created_at": 1772147155,
+        "used": false
     }
 }
