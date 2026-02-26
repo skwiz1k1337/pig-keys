@@ -76,5 +76,14 @@
         "duration_seconds": 4021614489600,
         "created_at": 1772150004,
         "used": false
+    },
+    "90N6-QWI1-LJOZ-VVPS": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "1d",
+        "duration_seconds": 86400,
+        "created_at": 1772156888,
+        "used": false
     }
 }
