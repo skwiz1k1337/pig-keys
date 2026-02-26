@@ -31,5 +31,14 @@
         "duration_seconds": 2592000,
         "created_at": 1772146876,
         "used": false
+    },
+    "GVSK18VYDPQBK26G": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "2m",
+        "duration_seconds": 120,
+        "created_at": 1772148217,
+        "used": false
     }
 }
