@@ -49,5 +49,14 @@
         "duration_seconds": 120,
         "created_at": 1772148535,
         "used": false
+    },
+    "3WK7J3398VMGHB8V": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "3m",
+        "duration_seconds": 180,
+        "created_at": 1772149660,
+        "used": false
     }
 }
