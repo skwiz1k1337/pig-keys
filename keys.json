@@ -14,5 +14,13 @@
         "created_at": 1772140008,
         "duration": "15 days",
         "used": false
+    },
+    "N7UDPK2G8PVDA5S2": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 1772232097,
+        "duration": "1d",
+        "created_at": 1772145697,
+        "used": false
     }
 }
