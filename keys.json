@@ -40,5 +40,14 @@
         "duration_seconds": 2592000,
         "created_at": 1772146876,
         "used": false
+    },
+    "4YOHERYXJDVXZ997": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "30day",
+        "duration_seconds": 2592000,
+        "created_at": 1772147144,
+        "used": false
     }
 }
