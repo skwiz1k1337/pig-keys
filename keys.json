@@ -58,5 +58,14 @@
         "duration_seconds": 180,
         "created_at": 1772149660,
         "used": false
+    },
+    "T266L60DEC7IU5GT": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "46546464d",
+        "duration_seconds": 4021614489600,
+        "created_at": 1772150000,
+        "used": false
     }
 }
