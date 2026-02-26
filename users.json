@@ -5,5 +5,12 @@
         "active_key": null,
         "created_at": 1772152116,
         "banned_until": 0
+    },
+    "Developer": {
+        "password": "1337",
+        "hwid": "HWID_814785663",
+        "active_key": null,
+        "created_at": 1772156548,
+        "banned_until": 0
     }
 }
