@@ -22,5 +22,14 @@
         "duration": "30day",
         "created_at": 1772145760,
         "used": false
+    },
+    "H3Q113H3VAZ4Q7PH": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "1day",
+        "duration_seconds": 86400,
+        "created_at": 1772146682,
+        "used": false
     }
 }
