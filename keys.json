@@ -67,5 +67,14 @@
         "duration_seconds": 4021614489600,
         "created_at": 1772150000,
         "used": false
+    },
+    "4KIK0IBRML2MFMXI": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "46546464d",
+        "duration_seconds": 4021614489600,
+        "created_at": 1772150004,
+        "used": false
     }
 }
