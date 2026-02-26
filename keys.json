@@ -1,1 +1,53 @@
-{"M58A-MTE0-T4D1-VDWT":{"expires":1773436008,"hwid":"","nickname":"","duration":"15 days","created_at":1772140008,"used":false},"GVSK18VYDPQBK26G":{"expires":0,"duration":"2m","nickname":"","hwid":"","duration_seconds":120,"created_at":1772148217,"used":false},"N7T8-U57Z-AEYJ-DFCI":{"expires":1773436004,"hwid":"","nickname":"","duration":"15 days","created_at":1772140004,"used":false},"NS43K358VBHMAYE5":{"expires":1774737759,"duration":"30day","nickname":"","hwid":"","created_at":1772145760,"used":false},"6APYZPOHHDK0VR6N":{"expires":0,"duration":"30day","nickname":"","hwid":"","duration_seconds":2592000,"created_at":1772146876,"used":false}}
+{
+    "M58A-MTE0-T4D1-VDWT": {
+        "expires": 1773436008,
+        "hwid": "",
+        "nickname": "",
+        "duration": "15 days",
+        "created_at": 1772140008,
+        "used": false
+    },
+    "GVSK18VYDPQBK26G": {
+        "expires": 0,
+        "duration": "2m",
+        "nickname": "",
+        "hwid": "",
+        "duration_seconds": 120,
+        "created_at": 1772148217,
+        "used": false
+    },
+    "N7T8-U57Z-AEYJ-DFCI": {
+        "expires": 1773436004,
+        "hwid": "",
+        "nickname": "",
+        "duration": "15 days",
+        "created_at": 1772140004,
+        "used": false
+    },
+    "NS43K358VBHMAYE5": {
+        "expires": 1774737759,
+        "duration": "30day",
+        "nickname": "",
+        "hwid": "",
+        "created_at": 1772145760,
+        "used": false
+    },
+    "6APYZPOHHDK0VR6N": {
+        "expires": 0,
+        "duration": "30day",
+        "nickname": "",
+        "hwid": "",
+        "duration_seconds": 2592000,
+        "created_at": 1772146876,
+        "used": false
+    },
+    "R9LZZHU3JX95ZHJL": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "2m",
+        "duration_seconds": 120,
+        "created_at": 1772148535,
+        "used": false
+    }
+}
