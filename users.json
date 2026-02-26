@@ -12,12 +12,5 @@
         "active_key": null,
         "created_at": 1772156548,
         "banned_until": 0
-    },
-    "Admin": {
-        "password": "1337",
-        "hwid": "HWID_814785663",
-        "active_key": null,
-        "created_at": 1772156704,
-        "banned_until": 0
     }
 }
