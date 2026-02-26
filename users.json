@@ -1,11 +1,4 @@
 {
-    "test_user_1772152116": {
-        "password": "test123",
-        "hwid": "TEST_HWID_123",
-        "active_key": null,
-        "created_at": 1772152116,
-        "banned_until": 0
-    },
     "Developer": {
         "password": "1337",
         "hwid": "",
