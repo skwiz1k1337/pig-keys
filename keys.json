@@ -15,12 +15,12 @@
         "duration": "15 days",
         "used": false
     },
-    "N7UDPK2G8PVDA5S2": {
+    "NS43K358VBHMAYE5": {
         "hwid": "",
         "nickname": "",
-        "expires": 1772232097,
-        "duration": "1d",
-        "created_at": 1772145697,
+        "expires": 1774737759,
+        "duration": "30day",
+        "created_at": 1772145760,
         "used": false
     }
 }
