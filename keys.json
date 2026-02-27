@@ -85,5 +85,14 @@
         "duration_seconds": 86400,
         "created_at": 1772156888,
         "used": false
+    },
+    "Q0WP-WSIV-XFNA-IDRL": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "created_at": 1772183564,
+        "duration": "1337 days",
+        "duration_seconds": 115516800,
+        "used": false
     }
 }
