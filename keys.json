@@ -121,5 +121,14 @@
         "duration_seconds": 2592000,
         "created_at": 1772219078,
         "used": false
+    },
+    "RK6S-RLTY-5XQW-P0WU": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "1338d",
+        "duration_seconds": 115603200,
+        "created_at": 1772227526,
+        "used": false
     }
 }
