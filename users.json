@@ -1,1 +1,9 @@
-{}
+{
+    "Dev": {
+        "password": "1337",
+        "hwid": "55B3046F-597196E8-CE9C08DC",
+        "active_key": null,
+        "created_at": 1772183360,
+        "banned_until": 0
+    }
+}
