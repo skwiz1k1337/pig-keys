@@ -112,5 +112,14 @@
         "duration_seconds": 90060,
         "created_at": 1772185695,
         "used": false
+    },
+    "NHSR-971K-U8SN-CG45": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "30d",
+        "duration_seconds": 2592000,
+        "created_at": 1772219078,
+        "used": false
     }
 }
