@@ -94,5 +94,14 @@
         "duration": "1337 days",
         "duration_seconds": 115516800,
         "used": false
+    },
+    "PDMT-H3JL-ZAHZ-S52G": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "1337d",
+        "duration_seconds": 115516800,
+        "created_at": 1772183621,
+        "used": false
     }
 }
