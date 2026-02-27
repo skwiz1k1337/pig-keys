@@ -103,5 +103,14 @@
         "duration_seconds": 115516800,
         "created_at": 1772183621,
         "used": false
+    },
+    "7JP4-95JD-0BTF-R1ZS": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "1d_1h_1m",
+        "duration_seconds": 90060,
+        "created_at": 1772185695,
+        "used": false
     }
 }
