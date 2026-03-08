@@ -130,5 +130,14 @@
         "duration_seconds": 115603200,
         "created_at": 1772227526,
         "used": false
+    },
+    "MY5I-3MHX-871Z-VSA7": {
+        "hwid": "",
+        "nickname": "",
+        "expires": 0,
+        "duration": "5d",
+        "duration_seconds": 432000,
+        "created_at": 1772994672,
+        "used": false
     }
 }
